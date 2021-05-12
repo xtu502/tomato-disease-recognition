@@ -1,3 +1,3 @@
 # tomato-disease-recognition
 
-Paper: Attention embedded multi-scale convolutional network for tomato disease recognition. Junde Chen. et al., 2021
+Paper: Identification of tomato plant diseases. Junde Chen. et al., 2021
